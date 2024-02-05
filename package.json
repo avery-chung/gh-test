@@ -1,6 +1,10 @@
 {
   "type": "module",
+  "scripts": {
+    "test": "yarn node --experimental-vm-modules $(yarn bin jest)"
+  },
   "devDependencies": {
-    "eslint": "^8.56.0"
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
   }
 }
