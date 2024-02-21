@@ -1,1 +1,2 @@
-HELLO [snp-1] changed
+HELLO [snp-2] changed
+new line
